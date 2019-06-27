@@ -1,0 +1,887 @@
+<div style="margin-top: 20px;" class="row">
+        <table style="border: none !important;" class="table table-bordered table-striped table-hover">
+
+            <tbody><tr class="success">
+                <th align="left" style="width: 60px">No.</th>
+                <th align="left">Course Title </th>
+                <th align="left">Code</th>
+                <th align="left">Credit&nbsp;Hour</th>
+                <th align="left">ECTS</th>
+                <th align="left">Grade </th>
+            </tr>
+
+                    <tr class="yrsm" style="background-color: transparent !important;">
+                        <td colspan="7">
+                            <br>
+                            <p style="color: #4682c0; font-weight: bold;">&nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold">
+                                    Academic Year </span> : 2018/19, &nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold"></span>
+                                Year III,&nbsp;&nbsp;&nbsp;<span style="font-weight: bold">
+                                    Semester
+                                    </span> : One</p>
+                            <br>
+                        </td>
+                    </tr>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+
+                        Web Programming I
+                    </td>
+                    <td>
+                        ITSE-3193
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('4df22b96-dbee-4a4e-8a30-22739b9ba71b','11111111-1111-1111-1111-111111111111','79e0de0a-f7d2-4c2c-a045-70b552cdf451')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+
+                        System Programming
+                    </td>
+                    <td>
+                        ITSE-3133
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+C
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('4df22b96-dbee-4a4e-8a30-22739b9ba71b','11111111-1111-1111-1111-111111111111','6ab5fbe9-086e-46c8-b115-d0d9f19a98a3')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+
+                        Engineering Mechanics II (Dynamics)
+                    </td>
+                    <td>
+                        MEng-1052
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('4df22b96-dbee-4a4e-8a30-22739b9ba71b','11111111-1111-1111-1111-111111111111','17a8c76c-8aae-42aa-834b-fdb5be553a02')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4
+                    </td>
+                    <td>
+
+                        Digital Logic Design
+                    </td>
+                    <td>
+                        ITSE-3161
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('4df22b96-dbee-4a4e-8a30-22739b9ba71b','11111111-1111-1111-1111-111111111111','5c6d36c7-814e-43b7-9bbe-271721692b72')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5
+                    </td>
+                    <td>
+
+                        Object-Oriented Programming II
+                    </td>
+                    <td>
+                        ITSE-3241
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('4df22b96-dbee-4a4e-8a30-22739b9ba71b','11111111-1111-1111-1111-111111111111','73adfaa1-0666-46a5-a2c4-3b0970d9025d')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                        <tr class="yrsm" style="background-color: transparent !important;">
+                            <td colspan="7">
+                                <br>
+                                <p style="padding: 8px 0; border: 1px solid #ddd; border-radius: 8px; font-weight: bold;">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGP : 93.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGPA : 2.74<br>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGP : 498.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA : 3.04<br>
+
+                                        
+                                            <br>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            Academic Status : Promoted
+                                        
+                                </p>
+                                <br>
+                            </td>
+                        </tr>
+                    <tr class="yrsm" style="background-color: transparent !important;">
+                        <td colspan="7">
+                            <br>
+                            <p style="color: #4682c0; font-weight: bold;">&nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold">
+                                    Academic Year </span> : 2017/18, &nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold"></span>
+                                Year II,&nbsp;&nbsp;&nbsp;<span style="font-weight: bold">
+                                    Semester
+                                    </span> : Two</p>
+                            <br>
+                        </td>
+                    </tr>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+
+                        Mobile Programming
+                    </td>
+                    <td>
+                        ITSE-2122
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+A
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111112','63bb5368-98ff-4cee-b627-531c64b97d48')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+
+                        Fundamentals of Networking
+                    </td>
+                    <td>
+                        ITSE-2121
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+A-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111112','c08dd087-462d-4d8e-b112-d0d346c18261')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+
+                        Fundamentals of Web Design and Development
+                    </td>
+                    <td>
+                        ITSE-2192
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111112','16fde939-18d6-4786-b610-f352ab51cbb7')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4
+                    </td>
+                    <td>
+
+                        Graphics and Multimedia I
+                    </td>
+                    <td>
+                        ITSE-2191
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111112','fbc05577-7cd1-46a2-96b9-a7a1f4cbef86')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5
+                    </td>
+                    <td>
+
+                        Software Engineering I (Software Modeling &amp; Analysis)
+                    </td>
+                    <td>
+                        ITSE-2211
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+C+
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111112','b1b967f7-7244-4bd1-a6bc-0dba8db99d75')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                        <tr class="yrsm" style="background-color: transparent !important;">
+                            <td colspan="7">
+                                <br>
+                                <p style="padding: 8px 0; border: 1px solid #ddd; border-radius: 8px; font-weight: bold;">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGP : 110.75&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGPA : 3.26<br>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGP : 405&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA : 3.12<br>
+
+                                        
+                                            <br>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            Academic Status : Promoted
+                                        
+                                </p>
+                                <br>
+                            </td>
+                        </tr>
+                    <tr class="yrsm" style="background-color: transparent !important;">
+                        <td colspan="7">
+                            <br>
+                            <p style="color: #4682c0; font-weight: bold;">&nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold">
+                                    Academic Year </span> : 2017/18, &nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold"></span>
+                                Year II,&nbsp;&nbsp;&nbsp;<span style="font-weight: bold">
+                                    Semester
+                                    </span> : One</p>
+                            <br>
+                        </td>
+                    </tr>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+
+                        Fundamentals of Data Structures and Algorithms
+                    </td>
+                    <td>
+                        ITSE-2131
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111111','64dde86f-4c92-47cb-90be-44ac305d5293')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+
+                        Fundamentals of Electronics
+                    </td>
+                    <td>
+                        ITSE-2262
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+B-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111111','ee100f67-1eed-4228-9457-db37d5203c74')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+
+                        Object-Oriented Programming I
+                    </td>
+                    <td>
+                        ITSE-2132
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+C-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111111','fca5e83a-590f-4e65-b2dc-a40a6a2a3ed1')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4
+                    </td>
+                    <td>
+
+                        Fundamentals of Database
+                    </td>
+                    <td>
+                        ITSE-2221
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111111','5f97f802-5c19-4d81-a071-72c8bb2b6926')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5
+                    </td>
+                    <td>
+
+                        Discrete Mathematics
+                    </td>
+                    <td>
+                        ITSE-2231
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+C-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('1a552b74-4b87-4b06-98ff-2731cb226d08','11111111-1111-1111-1111-111111111111','90ab001a-ffd9-4080-9235-587663754a82')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                        <tr class="yrsm" style="background-color: transparent !important;">
+                            <td colspan="7">
+                                <br>
+                                <p style="padding: 8px 0; border: 1px solid #ddd; border-radius: 8px; font-weight: bold;">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGP : 79.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGPA : 2.41<br>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGP : 294.25&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA : 3.07<br>
+
+                                        
+                                            <br>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            Academic Status : Promoted
+                                        
+                                </p>
+                                <br>
+                            </td>
+                        </tr>
+                    <tr class="yrsm" style="background-color: transparent !important;">
+                        <td colspan="7">
+                            <br>
+                            <p style="color: #4682c0; font-weight: bold;">&nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold">
+                                    Academic Year </span> : 2016/17, &nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold"></span>
+                                Year I,&nbsp;&nbsp;&nbsp;<span style="font-weight: bold">
+                                    Semester
+                                    </span> : Two</p>
+                            <br>
+                        </td>
+                    </tr>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+
+                        Fundamentals of Electrical Circuits
+                    </td>
+                    <td>
+                        ITSE-1261
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+A-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111112','8e6d2db5-c3ab-4755-98b4-6bf89cbf3bca')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+
+                        Basic Writing Skills-
+                    </td>
+                    <td>
+                        EnLa-1012
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        5.00
+                    </td>
+
+                    <td>
+B+
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111112','a25d7ee8-9a20-46c0-8e6a-363eea40887c')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+
+                        Fundamentals of Information Technology
+                    </td>
+                    <td>
+                        ITSE-1071
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111112','350665e6-664b-42b6-bde6-4af97c04452e')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4
+                    </td>
+                    <td>
+
+                        Applied Mathematics II
+                    </td>
+                    <td>
+                        Math-1042
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111112','872a9312-6823-47bb-8433-458554489ab8')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5
+                    </td>
+                    <td>
+
+                        Fundamentals of Computer Science and Programming
+                    </td>
+                    <td>
+                        ITSE-1131
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111112','85e0686d-c5c0-4834-8a20-191d87da28d1')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                        <tr class="yrsm" style="background-color: transparent !important;">
+                            <td colspan="7">
+                                <br>
+                                <p style="padding: 8px 0; border: 1px solid #ddd; border-radius: 8px; font-weight: bold;">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGP : 103&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGPA : 3.22<br>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGP : 214.75&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA : 3.41<br>
+
+                                        
+                                            <br>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            Academic Status : Promoted
+                                        
+                                </p>
+                                <br>
+                            </td>
+                        </tr>
+                    <tr class="yrsm" style="background-color: transparent !important;">
+                        <td colspan="7">
+                            <br>
+                            <p style="color: #4682c0; font-weight: bold;">&nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold">
+                                    Academic Year </span> : 2016/17, &nbsp;&nbsp;&nbsp;
+                                <span style="font-weight: bold"></span>
+                                Year I,&nbsp;&nbsp;&nbsp;<span style="font-weight: bold">
+                                    Semester
+                                    </span> : One</p>
+                            <br>
+                        </td>
+                    </tr>
+                <tr>
+                    <td>
+                        1
+                    </td>
+                    <td>
+
+                        Applied Mathematics I
+                    </td>
+                    <td>
+                        Math-1041
+                    </td>
+                    <td align="center">
+                        4.00
+                    </td>
+                    <td align="center">
+
+                        7.00
+                    </td>
+
+                    <td>
+B+
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111111','5e1faed3-8164-4254-b322-f68fab505902')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        2
+                    </td>
+                    <td>
+
+                        Communicative English Skill
+                    </td>
+                    <td>
+                        EnLa-1011
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        5.00
+                    </td>
+
+                    <td>
+A-
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111111','f32ddfcb-ee84-4674-97b2-cfcdf18fa497')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        3
+                    </td>
+                    <td>
+
+                        Engineering Mechanics I Statistics
+                    </td>
+                    <td>
+                        CEng-1051
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+B+
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111111','dc90f46c-cd0d-469c-8cdf-7e685c7a4e35')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        4
+                    </td>
+                    <td>
+
+                        Introduction to Engineering Profession
+                    </td>
+                    <td>
+                        GEng-1061
+                    </td>
+                    <td align="center">
+                        1.00
+                    </td>
+                    <td align="center">
+
+                        2.00
+                    </td>
+
+                    <td>
+B
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111111','56a2c360-602d-47f8-927d-6b209c96d5ba')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        5
+                    </td>
+                    <td>
+
+                        Engineering Drawing-
+                    </td>
+                    <td>
+                        MEng-1062
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        6.00
+                    </td>
+
+                    <td>
+A
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111111','739dd307-4c85-49bf-9140-859cef1dc3bd')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        6
+                    </td>
+                    <td>
+
+                        Civics and Ethical Education
+                    </td>
+                    <td>
+                        CESt-1023
+                    </td>
+                    <td align="center">
+                        3.00
+                    </td>
+                    <td align="center">
+
+                        5.00
+                    </td>
+
+                    <td>
+B+
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-default btn-sm" data-toggle="modal" data-target="#myModal" onclick="modalButtonClicked('aead1ab1-b47f-4b73-b761-aec5854e1e07','11111111-1111-1111-1111-111111111111','0b6aac76-aff4-440a-9cb1-bdbf7c9d52ee')">
+                            Assessment
+                        </button>
+                    </td>
+                </tr>
+                        <tr class="yrsm" style="background-color: transparent !important;">
+                            <td colspan="7">
+                                <br>
+                                <p style="padding: 8px 0; border: 1px solid #ddd; border-radius: 8px; font-weight: bold;">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGP : 111.75&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SGPA : 3.6<br>
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGP : 111.75&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CGPA : 3.6<br>
+                                        
+                                            <br>
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            Academic Status : Promoted
+                                        
+                                </p>
+                                <br>
+                            </td>
+                        </tr>
+
+        </tbody></table>
+    </div>
